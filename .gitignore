@@ -12,3 +12,10 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/ModernCityEnvironment01/Maps/LUT_Outdoor_Night.uasset
+Content/ModernCityEnvironment01/Maps/ModernCityMap01.umap
+Content/ModernCityEnvironment01/Maps/ModernCityMap01_BuiltData.uasset
+Content/ModernCityEnvironment01/Maps/ModernCityMap_Night.umap
+Content/ModernCityEnvironment01/Maps/ModernCityMap_Night_BuiltData.uasset
+Content/ModernCityEnvironment01/Maps/OverviewMap01.umap
+Content/ModernCityEnvironment01/Maps/OverviewMap01_BuiltData.uasset
